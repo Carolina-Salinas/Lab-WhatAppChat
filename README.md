@@ -1,1 +1,2 @@
-# Lab-WhatAppChat
+# whatsapp_chat
+Chat de whatsapp con Node JS
